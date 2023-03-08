@@ -1,3 +1,3 @@
 // Git practice
-console.log("hello world!")
+console.log("hello")
 console.log('Juan was here! ...or was he?')
